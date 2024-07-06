@@ -21,3 +21,10 @@
 - https://zerojudge.tw/ShowProblem?problemid=a002
 - 上傳的步驟依序為: 送出解答 -> 貼上程式碼 -> 送出
 - 跑出綠色的 AC 就表示你通過這一題了！如果不是的話就表示你寫的程式可能有錯哦！
+
+## 2024-07-07 (Practice by Online Judge System)
+
+- 請利用第三單元前面的知識完成以下題目
+- https://zerojudge.tw/ShowProblem?problemid=d827
+- https://zerojudge.tw/ShowProblem?problemid=d063
+- 備註：還不會使用 Online Judge 的同學務必來詢問！
