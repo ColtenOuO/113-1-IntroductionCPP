@@ -28,3 +28,10 @@
 - https://zerojudge.tw/ShowProblem?problemid=d827
 - https://zerojudge.tw/ShowProblem?problemid=d063
 - 備註：還不會使用 Online Judge 的同學務必來詢問！
+
+## 2024-07-14 (IntroductionCPP Ch. 3 Bitwise Operation)
+
+- 上課練習：簡報範例程式 & 位元運算子使用
+- https://zerojudge.tw/ShowProblem?problemid=d490
+- https://zerojudge.tw/ShowProblem?problemid=e156 (你可以使用 + - * / 沒關係)
+- https://zerojudge.tw/ShowProblem?problemid=d049
