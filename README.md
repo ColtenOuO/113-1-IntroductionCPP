@@ -31,6 +31,7 @@
 
 ## 2024-07-14 (IntroductionCPP Ch. 3 Bitwise Operation)
 
+- 課程錄影：https://youtu.be/_Q8cs8VALag
 - 上課練習：簡報範例程式 & 位元運算子使用
 - https://zerojudge.tw/ShowProblem?problemid=d490
 - https://zerojudge.tw/ShowProblem?problemid=e156 (你可以使用 + - * / 沒關係)
