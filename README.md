@@ -39,7 +39,7 @@
 
 ## 2024-07-21 (IntroductionCPP Ch. 4 if/else statement)
 
-- 課程錄影：
+- 課程錄影：https://youtu.be/bcAXjy8Q80o
 - 上課練習：簡報範例程式
 - https://zerojudge.tw/ShowProblem?problemid=d063 (請用 if/else 練習)
 - https://zerojudge.tw/ShowProblem?problemid=a244
