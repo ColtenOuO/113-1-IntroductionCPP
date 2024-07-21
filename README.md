@@ -36,3 +36,14 @@
 - https://zerojudge.tw/ShowProblem?problemid=d490
 - https://zerojudge.tw/ShowProblem?problemid=e156 (你可以使用 + - * / 沒關係)
 - https://zerojudge.tw/ShowProblem?problemid=d049
+
+## 2024-07-21 (IntroductionCPP Ch. 4 if/else statement)
+
+- 課程錄影：
+- 上課練習：簡報範例程式
+- https://zerojudge.tw/ShowProblem?problemid=d063 (請用 if/else 練習)
+- https://zerojudge.tw/ShowProblem?problemid=a244
+- https://zerojudge.tw/ShowProblem?problemid=d066
+- https://zerojudge.tw/ShowProblem?problemid=d065
+- https://zerojudge.tw/ShowProblem?problemid=d064
+- https://zerojudge.tw/ShowProblem?problemid=a003
