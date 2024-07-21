@@ -47,3 +47,4 @@
 - https://zerojudge.tw/ShowProblem?problemid=d065
 - https://zerojudge.tw/ShowProblem?problemid=d064
 - https://zerojudge.tw/ShowProblem?problemid=a003
+- https://zerojudge.tw/ShowProblem?problemid=a244
