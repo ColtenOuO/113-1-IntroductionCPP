@@ -51,7 +51,7 @@
 
 ## 2024-07-28 (IntroductionCPP Ch. 4 & 5)
 
-- 課程錄影：
+- 課程錄影：https://youtu.be/PLjIpa3qi68
 - 上課練習：簡報範例程式
 - https://toj.tfcis.org/oj/pro/104/ (經典題，一定要會)
 - https://zerojudge.tw/ShowProblem?problemid=b971 (迴圈基本題)
@@ -63,7 +63,7 @@
 
 ## 2024-08-04 (IntroductionCPP String and Char)
 
-- 課程錄影：
+- 課程錄影：https://youtu.be/ACSy1uZ1qwA
 - 上課練習：簡報範例程式
 - https://toj.tfcis.org/oj/pro/339/
 - https://toj.tfcis.org/oj/pro/294/ (小寫轉大寫，大寫轉小寫，這題一定要會)
