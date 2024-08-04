@@ -61,7 +61,7 @@
 - https://zerojudge.tw/ShowProblem?problemid=c461 (APCS 考古題，位元運算子 & 條件判斷)
 - https://toj.tfcis.org/oj/pro/110/ (這題很難，先觀察規律)
 
-## 2024-08-04 (IntroductionCPP Ch. 4 & 5)
+## 2024-08-04 (IntroductionCPP String and Char)
 
 - 課程錄影：
 - 上課練習：簡報範例程式
