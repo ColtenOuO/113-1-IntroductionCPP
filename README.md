@@ -72,7 +72,7 @@
 - https://toj.tfcis.org/oj/pro/113/ (必寫經典題)
 - https://toj.tfcis.org/oj/pro/114/ (必寫經典題)
 
-## 2024-08-11 (IntroductionCPP stringsream)
+## 2024-08-11 (IntroductionCPP stringstream)
 
 - 課程錄影：
 - 上課練習：簡報範例程式
