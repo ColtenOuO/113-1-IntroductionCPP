@@ -74,6 +74,6 @@
 
 ## 2024-08-11 (IntroductionCPP stringstream)
 
-- 課程錄影：
+- 課程錄影：https://youtu.be/iUpi8U_f_9o
 - 上課練習：簡報範例程式
 
