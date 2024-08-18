@@ -77,3 +77,12 @@
 - 課程錄影：https://youtu.be/iUpi8U_f_9o
 - 上課練習：簡報範例程式
 
+## 2024-08-18 (IntroductionCPP sorting & function)
+
+- 課程錄影：https://youtu.be/l8Z0bSBk3eo
+- 上課練習：簡報範例程式
+- https://codeforces.com/group/H0qY3QmnOW/contest/306928/problem/B
+- https://codeforces.com/group/H0qY3QmnOW/contest/543072/problem/G
+- https://codeforces.com/group/H0qY3QmnOW/contest/543072/problem/C
+- https://codeforces.com/group/H0qY3QmnOW/contest/543072/problem/F (思維題)
+
