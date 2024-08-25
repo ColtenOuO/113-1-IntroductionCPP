@@ -86,3 +86,11 @@
 - https://codeforces.com/group/H0qY3QmnOW/contest/543072/problem/C
 - https://codeforces.com/group/H0qY3QmnOW/contest/543072/problem/F (思維題)
 
+## 2024-08-25 (IntroductionCPP Recursion)
+
+- 課程錄影：
+- 上課練習：簡報範例程式 (2^n, 費氏數列)
+- https://zerojudge.tw/ShowProblem?problemid=c002 (f91)
+- https://codeforces.com/group/H0qY3QmnOW/contest/401283/problem/G1 (稍微難一點點的遞迴)
+- https://codeforces.com/group/H0qY3QmnOW/contest/401283/problem/B2 (負數 % 2 == -1)
+- https://codeforces.com/group/H0qY3QmnOW/contest/401283/problem/F2 (這題有點難，去思考看看如果某一個人得到第二次球會怎麼樣)
