@@ -96,6 +96,9 @@
 - https://codeforces.com/group/H0qY3QmnOW/contest/401283/problem/F2 (這題有點難，去思考看看如果某一個人得到第二次球會怎麼樣)
 
 ## 2024-09-01 (時間複雜度 & 枚舉)
-- 課程錄影:
-- 
+- 課程錄影: https://youtu.be/IpjaNVOcWGk
+- https://zerojudge.tw/ShowProblem?problemid=f312
+- https://codeforces.com/group/H0qY3QmnOW/contest/366708/problem/E
+- https://codeforces.com/group/H0qY3QmnOW/contest/377732/problem/A
+- https://codeforces.com/contest/1490/problem/C
 
