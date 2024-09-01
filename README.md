@@ -94,3 +94,8 @@
 - https://codeforces.com/group/H0qY3QmnOW/contest/401283/problem/G1 (稍微難一點點的遞迴)
 - https://codeforces.com/group/H0qY3QmnOW/contest/401283/problem/B2 (負數 % 2 == -1)
 - https://codeforces.com/group/H0qY3QmnOW/contest/401283/problem/F2 (這題有點難，去思考看看如果某一個人得到第二次球會怎麼樣)
+
+## 2024-09-01 (時間複雜度 & 枚舉)
+- 課程錄影:
+- 
+
