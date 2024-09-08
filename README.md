@@ -102,3 +102,9 @@
 - https://codeforces.com/group/H0qY3QmnOW/contest/377732/problem/A
 - https://codeforces.com/contest/1490/problem/C
 
+## 2024-09-08 (枚舉 & 陣列技巧)
+- 課程錄影：https://youtu.be/g25957Gg1nY
+- https://codeforces.com/group/H0qY3QmnOW/contest/401283/problem/G1
+- https://codeforces.com/group/H0qY3QmnOW/contest/339497/problem/H2
+- https://codeforces.com/group/H0qY3QmnOW/contest/333897/problem/C
+
