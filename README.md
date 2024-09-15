@@ -108,3 +108,10 @@
 - https://codeforces.com/group/H0qY3QmnOW/contest/339497/problem/H2
 - https://codeforces.com/group/H0qY3QmnOW/contest/333897/problem/C
 
+## 2024-09-15 (陣列技巧)
+- 課程錄影：https://youtu.be/YACdvFLdTwI
+- https://cses.fi/problemset/task/1646
+- https://codeforces.com/group/H0qY3QmnOW/contest/366701/problem/C
+- https://codeforces.com/contest/608/problem/B
+- https://codeforces.com/group/H0qY3QmnOW/contest/320147/problem/D
+
