@@ -115,3 +115,8 @@
 - https://codeforces.com/contest/608/problem/B
 - https://codeforces.com/group/H0qY3QmnOW/contest/320147/problem/D
 
+## 2024-09-22 (陣列技巧)
+- 課程錄影:
+- https://codeforces.com/problemset/problem/1700/C
+- https://codeforces.com/group/H0qY3QmnOW/contest/383582/problem/H2
+
