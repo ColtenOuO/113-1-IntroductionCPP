@@ -116,7 +116,7 @@
 - https://codeforces.com/group/H0qY3QmnOW/contest/320147/problem/D
 
 ## 2024-09-22 (陣列技巧)
-- 課程錄影:
+- 課程錄影: https://youtu.be/NR3kYzvpKjY
 - https://codeforces.com/problemset/problem/1700/C
 - https://codeforces.com/group/H0qY3QmnOW/contest/383582/problem/H2
 
