@@ -121,5 +121,5 @@
 - https://codeforces.com/group/H0qY3QmnOW/contest/383582/problem/H2
 
 ## 2024-09-29 (貪心算法)
-- 課程錄影:
+- 課程錄影: https://youtu.be/hLeOuzjX_wE
 
