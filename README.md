@@ -126,7 +126,12 @@
 ## 2024-10-06 (第一次測驗)
 - 測驗連結: https://codeforces.com/contestInvitation/d78f6e61ab22a035d1acc64fbd5704f909759b51
 
-## 2024-10-13 (非同步課程)
+## 2024-10-13 (考試前的小提醒)
+- 影片連結: https://youtu.be/g87gG0GZkvY
 - 由於老師這周也有一場決賽要比QwQ，但考量到大家已經快要考試了，我會先把影片錄好，麻煩大家一定要好好看完 !
-- 這周的影片會帶大家做 APCS 的考古題，請務必一定也要自己動手練習唷 ><
-
+- https://zerojudge.tw/ShowProblem?problemid=i399
+- https://zerojudge.tw/ShowProblem?problemid=g275
+- https://zerojudge.tw/ShowProblem?problemid=f605
+- https://zerojudge.tw/ShowProblem?problemid=f579
+- https://zerojudge.tw/ShowProblem?problemid=c294
+- https://zerojudge.tw/ShowProblem?problemid=b964
