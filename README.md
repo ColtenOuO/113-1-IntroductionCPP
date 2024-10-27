@@ -137,6 +137,7 @@
 - https://zerojudge.tw/ShowProblem?problemid=b964
 
 ## 2024-10-27 (STL - vecotr, deque, stack)
+- 課程錄影: https://youtu.be/qCOm0gV1DkE
 - https://zerojudge.tw/ShowProblem?problemid=a915
 - https://cses.fi/problemset/task/1646 (請用 vector)
 - https://codeforces.com/contest/1352/problem/G (deque)
