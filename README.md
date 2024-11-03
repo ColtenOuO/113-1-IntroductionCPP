@@ -144,7 +144,7 @@
 - https://cses.fi/problemset/task/1621/
 
 ## 2024-11-03 (STL - stack, queue, set)
-- 課程錄影：
+- 課程錄影：https://youtu.be/vGzh7nSQcJU
 - https://zerojudge.tw/ShowProblem?problemid=a565
 - https://zerojudge.tw/ShowProblem?problemid=e447
 - https://codeforces.com/group/H0qY3QmnOW/contest/301881/problem/H
