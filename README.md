@@ -150,3 +150,9 @@
 - https://codeforces.com/group/H0qY3QmnOW/contest/301881/problem/H
 - https://zerojudge.tw/ShowProblem?problemid=f607
 - https://tioj.ck.tp.edu.tw/problems/1012
+
+## 2024-11-10 (STL - multiset, map, priority_queue)
+- 課程錄影：
+- https://codeforces.com/group/H0qY3QmnOW/contest/316436/problem/C
+- https://cses.fi/problemset/task/1661
+- https://codeforces.com/group/H0qY3QmnOW/contest/329984/problem/E
