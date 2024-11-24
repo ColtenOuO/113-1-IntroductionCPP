@@ -158,7 +158,7 @@
 - https://codeforces.com/group/H0qY3QmnOW/contest/329984/problem/E
 
 ## 2024-11-24 (Dynamic Programming)
-- 課程錄影：
+- 課程錄影：https://youtu.be/SfqDe5IWu2U
 - https://cses.fi/problemset/task/1633
 - https://cses.fi/problemset/task/1635
 - https://atcoder.jp/contests/dp/tasks/dp_a
