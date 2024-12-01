@@ -163,3 +163,7 @@
 - https://cses.fi/problemset/task/1635
 - https://atcoder.jp/contests/dp/tasks/dp_a
 - https://atcoder.jp/contests/dp/tasks/dp_c
+
+## 2024-12-01 (Dynamic Programming)
+- 課程錄影：
+- https://cses.fi/problemset/task/1158
