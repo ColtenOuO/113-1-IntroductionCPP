@@ -167,3 +167,7 @@
 ## 2024-12-01 (Dynamic Programming)
 - 課程錄影：https://youtu.be/kqiIpJ-AgUI
 - https://cses.fi/problemset/task/1158
+
+## 2024-12-22 (Binary Search)
+- 課程錄影：
+- 簡報：https://docs.google.com/presentation/d/1Etecr7BW5vphyJGhkmJGOSvs5njWzvYl9_8aHQ0oWvM/edit?usp=sharing
