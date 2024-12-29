@@ -171,3 +171,6 @@
 ## 2024-12-22 (Binary Search)
 - 課程錄影：
 - 簡報：https://docs.google.com/presentation/d/1Etecr7BW5vphyJGhkmJGOSvs5njWzvYl9_8aHQ0oWvM/edit?usp=sharing
+
+## 2024-12-29 (Two Pointers)
+- 課程錄影：https://youtu.be/D9yk56QKy8k
